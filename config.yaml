@@ -1,0 +1,4 @@
+mysql_host: '172.31.49.212'
+mysql_user: 'cart'
+mysql_password: 'password'
+mysql_db: 'cart'
